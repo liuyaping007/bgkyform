@@ -46,15 +46,18 @@
 
 体验例子：[http://doc.kyform.cn/bigtemplatelist](http://doc.kyform.cn/bigtemplatelist/)
 
-所有例子本地下载部署地址 [https://gitee.com/liuyaping007/bigWeb](https://gitee.com/liuyaping007/bigWeb)
+码云离线部署vue2.0版本 [https://gitee.com/kyform/bigscreen](https://gitee.com/kyform/bigscreen)
+
+码云离线部署vue3.0版本 [https://gitee.com/kyform/bgkyform-vue3](https://gitee.com/kyform/bgkyform-vue3)
+
+github部署vue2.0版本 [https://github.com/liuyaping007/bgkyform](https://github.com/liuyaping007/bgkyform)
 
 3D例子：[http://doc.kyform.cn/three3d](http://doc.kyform.cn/three3d/)
 
 ### 简搭云可视化大屏使用指南
 
 #### 第一步：**注册账号**
-1. 打开[简搭云官网](http://bg.kyform.cn/)，点击“注册”按钮。
-2. 填写邮箱、密码等信息，完成注册并登录。
+1. 打开[简搭云官网](http://bg.kyform.cn/)，点击“使用 Gitee 账号 Star，免密登录”按钮，一键登录
 
 #### 第二步：**在线设计**
 1. 登录后，进入“我的大屏”模块。
@@ -123,7 +126,7 @@ Vue.component("baseechart", baseechart);
 
 ### ** 优秀大屏设计例子：**
 
-所有例子本地下载部署地址 [https://gitee.com/liuyaping007/bigWeb](https://gitee.com/liuyaping007/bigWeb)
+所有例子本地下载部署地址 [https://gitee.com/kyform/bigscreen](https://gitee.com/kyform/bigscreen)
 
 ##### 推荐大屏1
 [![推荐大屏1](/public/big/1892037591235096577.png)](http://dt.kyform.cn/#/?dbid=1892037591235096577)
