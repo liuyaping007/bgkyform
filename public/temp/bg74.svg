@@ -1,0 +1,549 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid" width="640" height="480" style="shape-rendering: auto; display: block; " xmlns:xlink="http://www.w3.org/1999/xlink"><g><style type="text/css">
+  path {
+    stroke-width: 1px;
+    stroke-linecap:round;
+    stroke-linejoin:round;
+    fill: none;
+  }
+</style><defs>
+<path id="p1" d="M1.4-2.1l-2.6-0.2l-1.4,2.1l1.1,2.3l2.6,0.2l1.4-2.1L1.4-2.1z M-4-9.5l2.8,7 M-6.4-6.4l3.9,0.7 M-0.2-9.1 l-2.3,3.4 M-5.9-4.6l4.3,0.9 M0.8-7.5l-2.4,3.8 M-10-1.3l7.3,0.9 M-8.6,2.4l2.5-3.2 M-7.8-4.5l1.7,3.7 M-6.8,2.9L-4-0.5 M-5.9-4.6 L-4-0.5 M-6,8.4l4.4-6 M-2.3,9l-1.4-3.8 M-7.6,4.8l3.9,0.4 M-0.9,7.7l-1.4-4.3 M-6.7,3.1l4.4,0.3 M4,9.5l-2.8-7 M6.4,6.5L2.4,5.8 M0.2,9.1l2.3-3.4 M5.9,4.6L1.6,3.7 M-0.8,7.5l2.4-3.8 M10,1.3L2.8,0.4 M8.6-2.4L6.1,0.8 M7.8,4.5L6.1,0.8 M6.9-2.9L4,0.5 M5.9,4.6 L4,0.5 M6-8.4l-4.4,6 M2.3-9l1.4,3.8 M7.6-4.8l-4-0.3 M0.9-7.7l1.4,4.3 M6.7-3.1L2.3-3.4" stroke="#eaebec"></path> <path id="p2" d="M1.1-8.9c0,0.6-0.5,1.1-1.1,1.1s-1.1-0.5-1.1-1.1S-0.6-10,0-10S1.1-9.5,1.1-8.9z M-2.8-4.9 C-3.3-4.6-3.5-4-3.2-3.5s0.9,0.7,1.4,0.4S-1.1-4-1.4-4.5S-2.3-5.2-2.8-4.9z M0-7.9V0 M0-5.6l2-2 M0-5.6l-2-2 M-8.7-5 C-9-4.5-8.8-3.9-8.3-3.6c0.5,0.3,1.1,0.1,1.4-0.4s0.1-1.1-0.4-1.4C-7.7-5.7-8.4-5.5-8.7-5z M-6.8-3.9L0,0 M-5.6-5.5l0.7,2.7 M-4.9-2.8l-2.7,0.7 M-8.7,5c0.3,0.5,0.9,0.7,1.4,0.4c0.5-0.3,0.7-0.9,0.4-1.4s-0.9-0.7-1.4-0.4C-8.8,3.8-9,4.5-8.7,5z M-6.8,3.9 L0,0 M-4.9,2.8l-2.7-0.7 M-4.9,2.8l-0.7,2.7 M0,10c0.6,0,1.1-0.5,1.1-1.1S0.6,7.9,0,7.9s-1.1,0.5-1.1,1.1S-0.6,10,0,10z M0,7.9V0 M0,5.6l-2,2 M0,5.6l2,2 M8.7,5C9,4.5,8.8,3.8,8.3,3.5S7.1,3.4,6.8,3.9C6.5,4.4,6.7,5.1,7.2,5.4C7.7,5.7,8.4,5.5,8.7,5z M6.8,3.9 L0,0 M4.9,2.8l0.7,2.7 M4.9,2.8l2.7-0.7 M8.7-5C8.4-5.5,7.7-5.7,7.2-5.4C6.7-5.1,6.5-4.5,6.8-3.9c0.3,0.5,0.9,0.7,1.4,0.4 C8.8-3.9,9-4.5,8.7-5z M6.8-3.9L0,0 M4.9-2.8l2.7,0.7 M5.6-5.5L4.9-2.8 M-2.3-1.3l0.1-1.6 M-1.4-3.4L0-2.7 M-5.7,0 C-5.7,0.6-5.2,1-4.6,1S-3.5,0.6-3.5,0S-4-1.1-4.6-1.1S-5.7-0.6-5.7,0z M-3.7,0.5l1.3,0.9 M-3.7-0.5l1.3-0.8 M-2.8,4.9 C-2.3,5.2-1.7,5-1.4,4.5s0.1-1.1-0.4-1.4S-2.9,3-3.2,3.5S-3.3,4.6-2.8,4.9z M-1.4,3.4L0,2.7 M-2.3,2.9l-0.1-1.6 M2.8,4.9 C3.3,4.6,3.5,4,3.2,3.5C2.9,3,2.3,2.8,1.8,3.1S1.1,4,1.4,4.5C1.7,5,2.3,5.2,2.8,4.9z M2.3,1.3L2.3,2.9 M0,2.7l1.4,0.7 M5.7,0 c0-0.6-0.5-1.1-1.1-1.1S3.6-0.6,3.6,0S4,1,4.6,1S5.7,0.6,5.7,0z M3.7-0.5L2.3-1.3 M3.7,0.5L2.3,1.3 M2.8-4.9C2.3-5.2,1.7-5,1.4-4.5 S1.3-3.4,1.8-3.1S2.9-3,3.2-3.5C3.5-4,3.3-4.6,2.8-4.9z M1.4-3.4L0-2.7 M2.3-2.9l0.1,1.6" stroke="#eaebec"></path>
+</defs><g>
+<g>
+<g transform="translate(106.20562491763374 0) scale(0.9257291448578806)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-3.762449493732916s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-3.762449493732916s" repeatCount="indefinite" from="0 -23.143228621447015" to="0 503.143228621447"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-3.762449493732916s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(145.76125081188587 0) scale(0.5166174854167023)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-7.671734240822885s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-7.671734240822885s" repeatCount="indefinite" from="0 -12.915437135417557" to="0 492.91543713541756"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-7.671734240822885s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(195.67543852582557 0) scale(0.34699660646324537)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-4.765757222967277s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-4.765757222967277s" repeatCount="indefinite" from="0 -8.674915161581135" to="0 488.6749151615811"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-4.765757222967277s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(216.5018795641902 0) scale(0.15170105210173138)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-2.440103614786819s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-2.440103614786819s" repeatCount="indefinite" from="0 -3.7925263025432843" to="0 483.7925263025433"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-2.440103614786819s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(169.9127762742495 0) scale(0.5793775115392777)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-0.43537593680079517s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-0.43537593680079517s" repeatCount="indefinite" from="0 -14.484437788481944" to="0 494.48443778848196"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.43537593680079517s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(452.0800126884958 0) scale(0.2457307431725328)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-8.892728253572606s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-8.892728253572606s" repeatCount="indefinite" from="0 -6.14326857931332" to="0 486.1432685793133"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-8.892728253572606s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(212.38195212746263 0) scale(0.14287935760814494)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-1.3817115133126614s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-1.3817115133126614s" repeatCount="indefinite" from="0 -3.5719839402036233" to="0 483.5719839402036"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-1.3817115133126614s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(631.6444118545597 0) scale(0.9311679350440178)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-0.7042942822793905s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-0.7042942822793905s" repeatCount="indefinite" from="0 -23.279198376100446" to="0 503.27919837610045"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.7042942822793905s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(508.091955693872 0) scale(0.6221917292224076)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-2.479685330763087s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-2.479685330763087s" repeatCount="indefinite" from="0 -15.55479323056019" to="0 495.55479323056016"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-2.479685330763087s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(59.491670384769364 0) scale(0.24446809005313033)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-0.233774152720964s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-0.233774152720964s" repeatCount="indefinite" from="0 -6.111702251328258" to="0 486.11170225132827"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.233774152720964s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(122.46092938395205 0) scale(0.3687678919707927)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-4.518632497342631s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-4.518632497342631s" repeatCount="indefinite" from="0 -9.219197299269817" to="0 489.2191972992698"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-4.518632497342631s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(124.52543267090758 0) scale(0.6082206429318536)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-3.44333077151185s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-3.44333077151185s" repeatCount="indefinite" from="0 -15.20551607329634" to="0 495.20551607329634"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-3.44333077151185s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(26.59215498132871 0) scale(0.3436516549717398)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-1.4001812477845264s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-1.4001812477845264s" repeatCount="indefinite" from="0 -8.591291374293494" to="0 488.5912913742935"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-1.4001812477845264s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(38.07571774764775 0) scale(0.8218802589374338)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-2.6489559496876267s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-2.6489559496876267s" repeatCount="indefinite" from="0 -20.547006473435843" to="0 500.54700647343583"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-2.6489559496876267s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(428.182028356739 0) scale(0.9214506846821936)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-2.8187200343314123s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-2.8187200343314123s" repeatCount="indefinite" from="0 -23.03626711705484" to="0 503.0362671170548"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-2.8187200343314123s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(48.91235639481411 0) scale(0.35652803522125737)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-0.999449290354607s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-0.999449290354607s" repeatCount="indefinite" from="0 -8.913200880531434" to="0 488.91320088053146"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.999449290354607s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(63.64309580097376 0) scale(0.3995349884797797)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-1.5087906542813279s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-1.5087906542813279s" repeatCount="indefinite" from="0 -9.988374711994492" to="0 489.9883747119945"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-1.5087906542813279s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(289.8275722515761 0) scale(0.12605230186191366)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-0.17688248092472691s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-0.17688248092472691s" repeatCount="indefinite" from="0 -3.1513075465478413" to="0 483.15130754654786"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.17688248092472691s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(480.86486647291997 0) scale(0.942652785814315)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-0.3249258679199612s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-0.3249258679199612s" repeatCount="indefinite" from="0 -23.566319645357876" to="0 503.56631964535785"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.3249258679199612s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(520.9136956739088 0) scale(0.7318382404447379)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-1.4182451091843382s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-1.4182451091843382s" repeatCount="indefinite" from="0 -18.29595601111845" to="0 498.29595601111845"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-1.4182451091843382s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(448.63506488967965 0) scale(0.2255768500497593)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-1.3108408652027506s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-1.3108408652027506s" repeatCount="indefinite" from="0 -5.6394212512439825" to="0 485.63942125124396"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-1.3108408652027506s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(572.0530102390625 0) scale(0.4906099216977439)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-0.907110613389222s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-0.907110613389222s" repeatCount="indefinite" from="0 -12.265248042443599" to="0 492.2652480424436"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.907110613389222s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(529.6376539885509 0) scale(0.23359821706034165)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-0.2663007907766625s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-0.2663007907766625s" repeatCount="indefinite" from="0 -5.839955426508541" to="0 485.83995542650854"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.2663007907766625s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(133.66103710790247 0) scale(0.261413482700298)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-4.016208520309271s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-4.016208520309271s" repeatCount="indefinite" from="0 -6.5353370675074505" to="0 486.53533706750744"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-4.016208520309271s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(272.55865806152747 0) scale(0.8378285330428172)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-4.028964315129182s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-4.028964315129182s" repeatCount="indefinite" from="0 -20.945713326070432" to="0 500.9457133260704"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-4.028964315129182s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(294.4126414611207 0) scale(0.5363360250665671)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-3.7357086047908696s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-3.7357086047908696s" repeatCount="indefinite" from="0 -13.408400626664177" to="0 493.40840062666416"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-3.7357086047908696s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(175.26170484958476 0) scale(0.6613149192214695)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-0.5517927749837359s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-0.5517927749837359s" repeatCount="indefinite" from="0 -16.532872980536737" to="0 496.53287298053675"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.5517927749837359s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(105.50211380361992 0) scale(0.46316875165764737)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-2.2968440491871087s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-2.2968440491871087s" repeatCount="indefinite" from="0 -11.579218791441184" to="0 491.5792187914412"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-2.2968440491871087s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(512.7812469504179 0) scale(0.3017575709406143)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-0.7262043751749324s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-0.7262043751749324s" repeatCount="indefinite" from="0 -7.543939273515357" to="0 487.5439392735154"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.7262043751749324s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(633.3691057436055 0) scale(0.5613322020600079)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-5.412125305505811s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-5.412125305505811s" repeatCount="indefinite" from="0 -14.033305051500196" to="0 494.0333050515002"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-5.412125305505811s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(450.14857231994404 0) scale(0.08805337126599536)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-8.687270414208097s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-8.687270414208097s" repeatCount="indefinite" from="0 -2.201334281649884" to="0 482.2013342816499"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-8.687270414208097s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(459.7409615121233 0) scale(0.35274882951564135)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-2.9248384056140964s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-2.9248384056140964s" repeatCount="indefinite" from="0 -8.818720737891034" to="0 488.81872073789106"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-2.9248384056140964s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(368.8116743036209 0) scale(0.22161218565302215)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-0.28541982403623684s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-0.28541982403623684s" repeatCount="indefinite" from="0 -5.5403046413255534" to="0 485.5403046413256"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.28541982403623684s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(212.92186896352797 0) scale(0.322368705379222)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-4.148142307854483s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-4.148142307854483s" repeatCount="indefinite" from="0 -8.05921763448055" to="0 488.05921763448055"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-4.148142307854483s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(625.8769702487418 0) scale(0.8470745825664405)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-2.0428786288184964s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-2.0428786288184964s" repeatCount="indefinite" from="0 -21.176864564161015" to="0 501.176864564161"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-2.0428786288184964s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(81.2085091933106 0) scale(0.6616003312396733)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-0.8424348832558103s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-0.8424348832558103s" repeatCount="indefinite" from="0 -16.540008280991835" to="0 496.54000828099186"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.8424348832558103s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(248.24454638116413 0) scale(0.533774169868554)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-8.155536208457919s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-8.155536208457919s" repeatCount="indefinite" from="0 -13.344354246713849" to="0 493.34435424671386"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-8.155536208457919s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(612.9458420320007 0) scale(0.9148133910187044)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-2.923225953805194s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-2.923225953805194s" repeatCount="indefinite" from="0 -22.87033477546761" to="0 502.8703347754676"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-2.923225953805194s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(115.99986205763228 0) scale(0.16049684145185691)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-4.464691383763915s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-4.464691383763915s" repeatCount="indefinite" from="0 -4.0124210362964225" to="0 484.0124210362964"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-4.464691383763915s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(521.4800806408583 0) scale(0.7883821200476177)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-0.6863054840290616s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-0.6863054840290616s" repeatCount="indefinite" from="0 -19.709553001190443" to="0 499.70955300119044"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.6863054840290616s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(172.41027776700736 0) scale(0.48863885016111197)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-2.3100739879674785s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-2.3100739879674785s" repeatCount="indefinite" from="0 -12.2159712540278" to="0 492.2159712540278"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-2.3100739879674785s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(324.223301743555 0) scale(0.5061779695407108)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-1.1088328721112106s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-1.1088328721112106s" repeatCount="indefinite" from="0 -12.65444923851777" to="0 492.65444923851777"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-1.1088328721112106s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(166.52099525118288 0) scale(0.2384630691984791)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-9.45888443498522s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-9.45888443498522s" repeatCount="indefinite" from="0 -5.961576729961977" to="0 485.96157672996196"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-9.45888443498522s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(607.0189143273055 0) scale(0.6632492929254821)">
+  <g>
+  <use xlink:href="#p1"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-3.725906577282267s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="10s" begin="-3.725906577282267s" repeatCount="indefinite" from="0 -16.58123232313705" to="0 496.58123232313704"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-3.725906577282267s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(495.89468792239217 0) scale(0.6862751725865561)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-4.452624962659561s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-4.452624962659561s" repeatCount="indefinite" from="0 -17.156879314663904" to="0 497.1568793146639"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-4.452624962659561s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.25;0.50;0.75;1.00" values="15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(351.87377967710506 0) scale(0.5561879726561549)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-0.2385341648980234s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-0.2385341648980234s" repeatCount="indefinite" from="0 -13.904699316403873" to="0 493.9046993164039"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.2385341648980234s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(439.6985261739369 0) scale(0.7447371433744044)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="10s" begin="-2.641918872931046s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-2.641918872931046s" repeatCount="indefinite" from="0 -18.61842858436011" to="0 498.6184285843601"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-2.641918872931046s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(47.394542826734465 0) scale(0.33606767926785025)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="3.3333333333333335s" begin="-0.008494835192873994s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="3.3333333333333335s" begin="-0.008494835192873994s" repeatCount="indefinite" from="0 -8.401691981696256" to="0 488.4016919816963"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-0.008494835192873994s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g>
+<g>
+<g transform="translate(196.1283155038424 0) scale(0.17340364250481682)">
+  <g>
+  <use xlink:href="#p2"></use>
+  <animateTransform attributeName="transform" type="rotate" dur="5s" begin="-3.4304836724102032s" repeatCount="indefinite" from="0" to="360"></animateTransform>
+  </g>
+</g>
+  <animateTransform attributeName="transform" type="translate" dur="5s" begin="-3.4304836724102032s" repeatCount="indefinite" from="0 -4.33509106262042" to="0 484.3350910626204"></animateTransform>
+</g>
+<animateTransform attributeName="transform" type="translate" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-3.4304836724102032s" dur="10s" repeatCount="indefinite" keyTimes="0.00;0.17;0.33;0.50;0.67;0.83;1.00" values="15 0;-15 0;15 0;-15 0;15 0;-15 0;15 0"></animateTransform>
+</g><g></g></g><style type="text/css"></style><!-- [ldio] generated by https://loading.io --></svg>

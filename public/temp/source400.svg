@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="462px" height="316px" viewBox="0 0 462 316" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>模块背景</title>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-66.000000, -175.000000)">
+            <g id="模块背景" transform="translate(66.000000, 175.595814)">
+                <path d="M460.5,1.5 L460.5,313.5 L1.5,313.5 L1.5,1.5 L460.5,1.5 Z" id="矩形" stroke="#223173" fill-opacity="0.322310868" fill="#080D43"></path>
+                <g id="编组-12" fill="#3F95FA">
+                    <path d="M10,0 L10,2 L2,2 L2,10 L0,10 L0,0 L10,0 Z" id="形状结合"></path>
+                    <path d="M462,0 L462,2 L454,2 L454,10 L452,10 L452,0 L462,0 Z" id="形状结合备份" transform="translate(457.000000, 5.000000) scale(-1, 1) translate(-457.000000, -5.000000) "></path>
+                </g>
+                <g id="编组-12备份" transform="translate(231.000000, 310.068249) scale(1, -1) translate(-231.000000, -310.068249) translate(0.000000, 305.068249)" fill="#3F95FA">
+                    <path d="M10,0 L10,2 L2,2 L2,10 L0,10 L0,0 L10,0 Z" id="形状结合"></path>
+                    <path d="M462,0 L462,2 L454,2 L454,10 L452,10 L452,0 L462,0 Z" id="形状结合备份" transform="translate(457.000000, 5.000000) scale(-1, 1) translate(-457.000000, -5.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
